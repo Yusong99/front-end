@@ -14,3 +14,6 @@ React/reactdemo/.env.production.local
 React/reactdemo/npm-debug.log*
 React/reactdemo/yarn-debug.log*
 React/reactdemo/yarn-error.log*
+
+.DS_Store
+React/.DS_Store
