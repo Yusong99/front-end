@@ -1,16 +1,16 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/React/reactdemo/node_modules
-/React/reactdemo/.pnp
-/React/reactdemo/.pnp.js
-/React/reactdemo/coverage
-/React/reactdemo/build
-/React/reactdemo/.DS_Store
-/React/reactdemo/.env.local
-/React/reactdemo/.env.development.local
-/React/reactdemo/.env.test.local
-/React/reactdemo/.env.production.local
-/React/reactdemo/npm-debug.log*
-/React/reactdemo/yarn-debug.log*
-/React/reactdemo/yarn-error.log*
+React/reactdemo/node_modules
+React/reactdemo/.pnp
+React/reactdemo/.pnp.js
+React/reactdemo/coverage
+React/reactdemo/build
+React/reactdemo/.DS_Store
+React/reactdemo/.env.local
+React/reactdemo/.env.development.local
+React/reactdemo/.env.test.local
+React/reactdemo/.env.production.local
+React/reactdemo/npm-debug.log*
+React/reactdemo/yarn-debug.log*
+React/reactdemo/yarn-error.log*
